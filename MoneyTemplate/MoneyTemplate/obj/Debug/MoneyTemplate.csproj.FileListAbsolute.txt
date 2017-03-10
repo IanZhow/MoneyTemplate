@@ -1,0 +1,202 @@
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\ApplicationInsights.config
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\csc.exe
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\System.Collections.Immutable.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\vbc.exe
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\VBCSCompiler.exe
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\roslyn\VBCSCompiler.exe.config
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.dll.config
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.pdb
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Antlr3.Runtime.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\EntityFramework.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\EntityFramework.SqlServer.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Web.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.WindowsServer.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.ApplicationInsights.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Google.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Newtonsoft.Json.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Owin.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Helpers.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Mvc.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Optimization.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Razor.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Deployment.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Razor.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\WebGrease.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Web.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.WindowsServer.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.ApplicationInsights.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Helpers.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Mvc.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Optimization.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.Razor.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Deployment.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Razor.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Antlr3.Runtime.pdb
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Newtonsoft.Json.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\EntityFramework.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\EntityFramework.SqlServer.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Google.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Helpers.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Mvc.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Optimization.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Razor.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\EntityFramework.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.csprojResolveAssemblyReference.cache
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.dll
+c:\users\zhow\documents\visual studio 2015\Projects\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.pdb
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\ApplicationInsights.config
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\csc.exe
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\vbc.exe
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.dll.config
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\MoneyTemplate.pdb
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Antlr3.Runtime.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\EntityFramework.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\EntityFramework.SqlServer.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Web.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Newtonsoft.Json.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Owin.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Helpers.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Mvc.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Optimization.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Razor.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\WebGrease.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.Web.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Helpers.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Mvc.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Optimization.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.Razor.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Antlr3.Runtime.pdb
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Newtonsoft.Json.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\EntityFramework.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\EntityFramework.SqlServer.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\bin\zh-Hant\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.dll
+C:\Users\Zhow\Desktop\MoneyTemplate\MoneyTemplate\MoneyTemplate\obj\Debug\MoneyTemplate.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MoneyTemplate.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,9 +9,26 @@ namespace MoneyTemplate.Controllers
 {
     public class HomeController : Controller
     {
+
+        List<Data> DataList = new List<Data>();
+       
+  
         public ActionResult Index()
         {
-            return View();
+            for (int i = 1; i < 11; i++)
+            {
+                Data data = new Data();
+                data.NUM = i;
+                if (i % 2 == 1)
+                    data.TYPE = "支出";
+                else
+                    data.TYPE = "收入";
+                data.DATE = DateTime.Now;
+                data.TOTAL = i * 1000;
+                DataList.Add(data);                
+            }          
+           
+            return View(DataList);
         }
 
         public ActionResult About()
